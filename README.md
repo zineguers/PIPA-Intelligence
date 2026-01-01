@@ -17,15 +17,6 @@ This is my first AI chatbot project — a standalone Windows app with a transpar
 ## Preview
 <img width="1007" height="757" alt="image" src="https://github.com/user-attachments/assets/1b4741bb-1433-439d-acd2-d6971fe49cc8" />
 
-- Main chat window
-- Thinking animation
-- Sample conversation
-
-Recommended: Save 1920x1080 PNGs as `screenshot1.png`, `screenshot2.png`, etc., and reference them below:
-
-![Main Window](screenshot1.png)
-![Thinking](screenshot2.png)
-![Conversation](screenshot3.png)
 
 ## Requirements
 
