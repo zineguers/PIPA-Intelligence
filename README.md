@@ -22,11 +22,11 @@ This is my first AI chatbot project — a standalone Windows app with a transpar
 
 - Windows 10/11
 - PowerShell 5.1 or later (built-in on Windows)
-- Google Gemini API key (free tier available)
+- an AI API key (free tier available works aswell)
 
 ## Setup
 
-1. Get a free Gemini API key:  
+1. Get a free Gemini API key (example of free AI API-limited):  
    https://ai.google.dev/ (create a project in Google AI Studio → Generate API key)
 
 2. Download `PIPA Intelligence.ps1`
